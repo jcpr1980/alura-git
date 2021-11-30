@@ -41,6 +41,7 @@ delete cliente.fone
 console.log(cliente)
 
 
+
 //Tipos de Dados e Valores
 console.log(">>> Tipos de Dados e Valores <<<")
 const cliente2 = {
